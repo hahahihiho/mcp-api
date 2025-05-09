@@ -1,10 +1,10 @@
-# API-MCP
+# MCP-API
 Connect API through MCP
-API들, MCP로 연결하기
+<br>(API들, MCP로 연결하기)
 
 ## Structure
-/src/commons/api-info : you can add api
-/src/tools : you can add tool
+- `/src/commons/api-info` : you can add api
+- `/src/tools` : you can add tool
 
 ## How to run
 1. `npm install`
