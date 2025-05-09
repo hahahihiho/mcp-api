@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "mcp-api": {
+      "command": "/usr/local/bin/node",
+      "args": ["~/mcp-api/build/index.js"]
+    }
+  }
+}
+  
